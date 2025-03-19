@@ -46,3 +46,8 @@ React
 4. Start the Client : npm start
 (OR)
 Open multiple browser windows and navigate to http://localhost:3000 to start collaborating
+
+
+
+
+![Image](https://github.com/user-attachments/assets/d424404f-e143-463c-a16c-7baa0b8fc321)
