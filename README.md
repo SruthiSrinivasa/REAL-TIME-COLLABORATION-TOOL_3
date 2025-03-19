@@ -39,9 +39,10 @@ Node.js
 WebSocket
 React
 
-Install dependencies: npm install express ws cors
-Start the server: npm start server.js
-Install: npm install socket.io-client
-Start the Client : npm start
+# Dependencies
+1. Install dependencies: npm install express ws cors
+2. Start the server: npm start server.js
+3. Install: npm install socket.io-client
+4. Start the Client : npm start
 (OR)
 Open multiple browser windows and navigate to http://localhost:3000 to start collaborating
